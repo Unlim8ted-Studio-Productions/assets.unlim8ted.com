@@ -38074,55 +38074,8 @@
 {"id":"umb_context_manual_09998","question":"give me the context for interpretation in a casual conversation","answer":"The short version: in a casual conversation, interpretation is the explanation someone gives for what something means or is trying to communicate. It usually helps make shorthand language less fuzzy. It is a way to turn raw material into understood meaning.","intent":"language_interpretation_meaning","project":"General Knowledge","project_key":"general_knowledge","category":"language","tags":["language","interpretation","manual_expansion","situational","casual_conversation"],"source_note":"manual dataset expansion for slang, narrative, and conversational context questions"}
 {"id":"umb_context_manual_09999","question":"explain the phrase interpretation in a casual conversation","answer":"Plain English: in a casual conversation, interpretation refers to the explanation someone gives for what something means or is trying to communicate. It usually helps make shorthand language less fuzzy. It helps people turn raw material into understood meaning.","intent":"language_interpretation_meaning","project":"General Knowledge","project_key":"general_knowledge","category":"language","tags":["language","interpretation","manual_expansion","situational","casual_conversation"],"source_note":"manual dataset expansion for slang, narrative, and conversational context questions"}
 {"id":"umb_context_manual_10000","question":"what is meant by interpretation in a casual conversation","answer":"A practical read: in a casual conversation, interpretation is the explanation someone gives for what something means or is trying to communicate. It usually helps make shorthand language less fuzzy. Usually it is there to turn raw material into understood meaning.","intent":"language_interpretation_meaning","project":"General Knowledge","project_key":"general_knowledge","category":"language","tags":["language","interpretation","manual_expansion","situational","casual_conversation"],"source_note":"manual dataset expansion for slang, narrative, and conversational context questions"}
-[
-  {
-    "id": "utg_film_0001",
-    "question": "what is the glitch",
-    "answer": "The Glitch is a film by Unlim8ted about deciding what is real, learning to forgive, and trying to save the people you love.",
-    "intent": "project_the_glitch_film",
-    "project": "The Glitch",
-    "project_key": "the_glitch",
-    "category": "film_story",
-    "tags": ["unlim8ted_project", "film", "the_glitch"]
-  },
-  {
-    "id": "utg_film_0002",
-    "question": "explain the glitch film",
-    "answer": "The Glitch is an Unlim8ted film centered on a character facing a broken sense of reality while learning forgiveness and fighting to protect loved ones.",
-    "intent": "project_the_glitch_film",
-    "project": "The Glitch",
-    "project_key": "the_glitch",
-    "category": "film_story",
-    "tags": ["unlim8ted_project", "film_story", "reality"]
-  },
-  {
-    "id": "utg_film_0003",
-    "question": "what is the glitch by unlim8ted",
-    "answer": "The Glitch by Unlim8ted is a film about reality, forgiveness, emotional conflict, and saving the people who matter most.",
-    "intent": "project_the_glitch_film",
-    "project": "The Glitch",
-    "project_key": "the_glitch",
-    "category": "project_overview",
-    "tags": ["unlim8ted_project", "the_glitch", "film"]
-  },
-  {
-    "id": "utg_film_0004",
-    "question": "is the glitch a film",
-    "answer": "Yes. The Glitch is a film project by Unlim8ted Studios.",
-    "intent": "project_the_glitch_film",
-    "project": "The Glitch",
-    "project_key": "the_glitch",
-    "category": "format",
-    "tags": ["film", "unlim8ted_studios", "the_glitch"]
-  },
-  {
-    "id": "utg_film_0005",
-    "question": "what is the story of the glitch",
-    "answer": "The story of The Glitch follows a character who must decide what is real while confronting forgiveness and trying to save those he loves.",
-    "intent": "project_the_glitch_story",
-    "project": "The Glitch",
-    "project_key": "the_glitch",
-    "category": "story",
-    "tags": ["story", "reality", "forgiveness"]
-  }
-]
+{"id": "utg_film_0001","question": "what is the glitch","answer": "The Glitch is a film by Unlim8ted about deciding what is real, learning to forgive, and trying to save the people you love.","intent": "project_the_glitch_film","project": "The Glitch","project_key": "the_glitch","category": "film_story","tags": ["unlim8ted_project", "film", "the_glitch"]}
+{"id": "utg_film_0002","question": "explain the glitch film","answer": "The Glitch is an Unlim8ted film centered on a character facing a broken sense of reality while learning forgiveness and fighting to protect loved ones.","intent": "project_the_glitch_film","project": "The Glitch","project_key": "the_glitch","category": "film_story","tags": ["unlim8ted_project", "film_story", "reality"]}
+{"id": "utg_film_0003","question": "what is the glitch by unlim8ted","answer": "The Glitch by Unlim8ted is a film about reality, forgiveness, emotional conflict, and saving the people who matter most.","intent": "project_the_glitch_film","project": "The Glitch","project_key": "the_glitch","category": "project_overview","tags": ["unlim8ted_project", "the_glitch", "film"]}
+{"id": "utg_film_0004","question": "is the glitch a film","answer": "Yes. The Glitch is a film project by Unlim8ted Studios.","intent": "project_the_glitch_film","project": "The Glitch","project_key": "the_glitch","category": "format","tags": ["film", "unlim8ted_studios", "the_glitch"]}
+{"id": "utg_film_0005","question": "what is the story of the glitch","answer": "The story of The Glitch follows a character who must decide what is real while confronting forgiveness and trying to save those he loves.","intent": "project_the_glitch_story","project": "The Glitch","project_key": "the_glitch","category": "story","tags": ["story", "reality", "forgiveness"]}
